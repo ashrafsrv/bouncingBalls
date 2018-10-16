@@ -1,3 +1,3 @@
-# Bouncing Particles
+# Bouncing Balls
 
-The texture images are inside the "data" folder. Run the bouncingBall file in Processing for the bouncing balls animation. Click on the window with the mouse to randomly give the balls an initial velocity in all three directions
+A 3D representation of bouncing balls in Processing. After running the bouncingBalls.pde file, click randomly on the window to spawn off balls with different velocities in all three directions (x, y, z)
